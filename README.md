@@ -1,14 +1,18 @@
-# Meu Primeiro Repositório
+# 👩‍💻 Meu Primeiro Repositório
 
-Vou adicionar alguns exercícios em Portugol aqui.
+Olá! Esse repositório contém meus exercícios de Portugol enquanto aprendo lógica de programação.
 
-## Sobre mim
+## 📚 Sobre mim
 
-No momento estou estudando algoritmos e lógica de programação.
-Pretendo cursar Engenharia Mecatrônica na USP.
+- 🎓 Estudando algoritmos e lógica de programação
+- 🔭 Pretendo cursar Engenharia Mecatrônica na USP
+- 🌱 Atualmente aprendendo: **Portugol**
 
-## Exercícios
-- ExercicioCrescente
-- ExercicioTerreno
-- ExercicioTroco
+## 🗂️ Exercícios
+
+| Exercício | Descrição |
+|-----------|-----------|
+| ExercicioCrescente | Ordenação crescente |
+| ExercicioTerreno | Cálculo de terreno |
+| ExercicioTroco | Cálculo de troco |
 
