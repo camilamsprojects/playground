@@ -1,6 +1,14 @@
-MEU PRIMEIRO REPOSITORIO 
+# Meu Primeiro Repositório
 
-# VOU ADICIONAR ALGUNS EXERCICIOS EM PORTUGOL AQUI
+Vou adicionar alguns exercícios em Portugol aqui.
 
-# SOBRE MIM: NO MOMENTO, ESTOU ESTUDANDO ALGORITMOS E LOGICA DE PROGRAMACAO
-# PRETENDO CURSAR ENGENHARIA MECATRONICA NA USP
+## Sobre mim
+
+No momento estou estudando algoritmos e lógica de programação.
+Pretendo cursar Engenharia Mecatrônica na USP.
+
+## Exercícios
+- ExercicioCrescente
+- ExercicioTerreno
+- ExercicioTroco
+
