@@ -13,7 +13,7 @@ A função desse repositorio e aprender como algumas coisas funcionam
 
 | Exercício | Descrição | Dificuldade |
 |-----------|-----------|-------------|
-|           |           |             |
+| Nota válida| Cap 5 - estruturas de repetição| Muito difícil|
 |           |           |             |
 |           |           |             |
 
